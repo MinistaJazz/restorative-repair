@@ -1,7 +1,7 @@
 ---
 name: restorative-repair
 slug: restorative-repair
-version: 0.1.0
+version: 0.1.1
 description: "Use when an AI agent needs to repair its own output error. Provides trigger taxonomy, severity tiers, a four-part repair template for significant harm, compressed repair for minor errors, crisis suppression rules, and loop-exit behavior."
 ---
 

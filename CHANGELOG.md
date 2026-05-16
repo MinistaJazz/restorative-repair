@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.1.1-public  -  May 16, 2026
+
+### Changed
+
+- Marked `restorative-repair` as a public v0.1.1 release.
+- Added `CITATION.cff` for citation tools and archive metadata.
+- Added `PUBLICATION_BOUNDARY.md` to clarify what is public and what remains protected infrastructure.
+
 ## v0.1.1  -  May 13, 2026
 
 ### Changed

@@ -58,7 +58,7 @@ Source: [Anthropic, "Teaching Claude why" (May 8, 2026)](https://www.anthropic.c
 
 This skill follows the `SKILL.md` instruction-package format used by Claude Code and other agent tooling. The author has tested it locally in Claude Code. Other agent ecosystems may need adapter steps, but the core protocol is plain Markdown and system-prompt portable.
 
-**Review status:** pre-publication review copy. Until publication, the skill lives at `~/.claude/skills/restorative-repair/` in the author's local environment and is available for invited review.
+**Release status:** public v0.1.1 release. This repository is the public skill package for review, citation, implementation, and adaptation with attribution.
 
 ---
 
@@ -125,7 +125,7 @@ Co-refinement contributions came from the author's disclosed multi-agent AI prac
 
 If you build on this work, cite it:
 
-> Cook-Kendrick, Jasmaine Acelia (Minista Jazz). "Restorative Repair: A Response-Layer Practice for AI Agents." Much Different World, 2026. Review copy.
+> Cook-Kendrick, Jasmaine Acelia (Minista Jazz). "Restorative Repair: A Response-Layer Practice for AI Agents." Much Different World, 2026.
 
 And cite the method:
 

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Restorative Repair: A Response-Layer Practice for AI Agents"
+message: "If you use the Restorative Repair skill, response architecture, trigger taxonomy, benchmarks, or lineage notes, please cite this work."
+type: software
+authors:
+  - family-names: "Cook-Kendrick"
+    given-names: "Jasmaine Acelia"
+    alias: "Minista Jazz"
+year: 2026
+date-released: "2026-05-13"
+version: "0.1.1"
+license: "MIT"
+abstract: "Restorative Repair is a response-layer practice for AI agents to name and repair their own output errors using a four-part restorative response architecture: specific acknowledgment, naming the deeper pattern, specific repair offer, and behavior change with an observable marker."
+repository-code: "https://github.com/MinistaJazz/restorative-repair"
+keywords:
+  - ai-agents
+  - restorative-repair
+  - response-layer-practice
+  - recognition-skill-method
+  - agent-accountability
+  - restorative-justice
+  - repair-protocol
+  - ai-safety
+preferred-citation:
+  type: software
+  title: "Restorative Repair: A Response-Layer Practice for AI Agents"
+  authors:
+    - family-names: "Cook-Kendrick"
+      given-names: "Jasmaine Acelia"
+      alias: "Minista Jazz"
+  year: 2026
+  version: "0.1.1"
+  publisher:
+    name: "Much Different World"
+  repository-code: "https://github.com/MinistaJazz/restorative-repair"
+  notes: "Public release of the Restorative Repair AI agent skill, including the skill instruction package, lineage notes, trigger taxonomy, response architecture, system-prompt example, and benchmark seed set."
