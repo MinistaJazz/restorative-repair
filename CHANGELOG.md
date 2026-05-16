@@ -1,5 +1,13 @@
 # Changelog
 
+## DOI Archive  -  May 16, 2026
+
+### Changed
+
+- Recorded Zenodo version DOI `10.5281/zenodo.20223034`.
+- Recorded Zenodo all-versions DOI `10.5281/zenodo.20223032`.
+- Documented the Zenodo archive record for the v0.1.1 GitHub release.
+
 ## v0.1.1-public  -  May 16, 2026
 
 ### Changed

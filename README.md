@@ -72,6 +72,9 @@ This skill follows the `SKILL.md` instruction-package format used by Claude Code
 - [`references/system-prompt-example.md`](references/system-prompt-example.md): working system-prompt block to copy-paste into your agent
 - [`benchmarks/README.md`](benchmarks/README.md): seed test prompts with recognition-correct and recognition-incorrect behaviors
 - [`CHANGELOG.md`](CHANGELOG.md): release notes
+- [`ARCHIVE_RECORD.md`](ARCHIVE_RECORD.md): DOI, GitHub release, and checksum record
+- [`CITATION.cff`](CITATION.cff): machine-readable citation metadata
+- [`PUBLICATION_BOUNDARY.md`](PUBLICATION_BOUNDARY.md): public/private boundary
 - [`LICENSE`](LICENSE): MIT for the open practice; the protected infrastructure is held separately under Much Different World / Sisterhood Voice Data Trust governance
 
 ---
@@ -125,7 +128,10 @@ Co-refinement contributions came from the author's disclosed multi-agent AI prac
 
 If you build on this work, cite it:
 
-> Cook-Kendrick, Jasmaine Acelia (Minista Jazz). "Restorative Repair: A Response-Layer Practice for AI Agents." Much Different World, 2026.
+> Cook-Kendrick, Jasmaine Acelia (Minista Jazz). "Restorative Repair: A Response-Layer Practice for AI Agents." Much Different World, 2026. https://doi.org/10.5281/zenodo.20223034
+
+Version DOI: `10.5281/zenodo.20223034`  
+All-versions DOI: `10.5281/zenodo.20223032`
 
 And cite the method:
 

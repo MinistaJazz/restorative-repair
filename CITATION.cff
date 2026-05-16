@@ -9,9 +9,17 @@ authors:
 year: 2026
 date-released: "2026-05-13"
 version: "0.1.1"
+doi: "10.5281/zenodo.20223034"
 license: "MIT"
 abstract: "Restorative Repair is a response-layer practice for AI agents to name and repair their own output errors using a four-part restorative response architecture: specific acknowledgment, naming the deeper pattern, specific repair offer, and behavior change with an observable marker."
 repository-code: "https://github.com/MinistaJazz/restorative-repair"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20223034"
+    description: "Version DOI for Restorative Repair v0.1.1."
+  - type: doi
+    value: "10.5281/zenodo.20223032"
+    description: "All-versions DOI for the Restorative Repair release series."
 keywords:
   - ai-agents
   - restorative-repair
@@ -33,4 +41,5 @@ preferred-citation:
   publisher:
     name: "Much Different World"
   repository-code: "https://github.com/MinistaJazz/restorative-repair"
+  doi: "10.5281/zenodo.20223034"
   notes: "Public release of the Restorative Repair AI agent skill, including the skill instruction package, lineage notes, trigger taxonomy, response architecture, system-prompt example, and benchmark seed set."
